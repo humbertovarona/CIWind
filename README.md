@@ -8,7 +8,7 @@ Compute wind intensity
 
 # Release date
 
-![](https://img.shields.io/badge/Release%20date-Sep%2C%201%2C%202023-9cf)
+![](https://img.shields.io/badge/Release%20date-Sep%2C%207%2C%202018-9cf)
 
 # License
 
