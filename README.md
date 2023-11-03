@@ -1,0 +1,2 @@
+# CIWind
+Compute wind intensity
